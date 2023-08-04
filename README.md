@@ -11,5 +11,4 @@ Cool, man.
 Using SSH it's not easy.
 
 ### Local Development
-
 1. Open index.html in your browser

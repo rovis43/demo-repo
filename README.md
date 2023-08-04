@@ -9,3 +9,7 @@ Cool, man.
 
 ## Not using the synced version of VSCode
 Using SSH it's not easy.
+
+### Local Development
+
+1. Open index.html in your browser
